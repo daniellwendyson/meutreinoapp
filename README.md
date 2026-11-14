@@ -1,4 +1,4 @@
-# Treino
+# meutreinoapp
 
 App simples para criar treinos, guardar o historico e registrar cargas para comparar com o treino anterior.
 
